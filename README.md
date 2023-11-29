@@ -1,7 +1,7 @@
 # HangmanGame
 HangmanGame with python3 🐍
 
-# Module used
-pygame
--
-for editing the list of word, modify in liste_mot.txt
+## Module used
+- pygame
+## How to modify word ?
+you need to modify the list of word in liste_mot.txt
