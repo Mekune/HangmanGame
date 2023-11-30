@@ -4,12 +4,15 @@
   - objectif : faire le jeu du pendu avec interface graphique
   - durée : 3 jours
   - période éfféctué : début L3 PRÉ-MSC - Epitech
-    
+  - 
 ## Technologie utilisé
+
 ### Langage
   - Python
+
 ### librairie
   - pygame
+
 ### Environnement de développement
   - Visual studio code
   
