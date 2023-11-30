@@ -1,5 +1,3 @@
-# HangmanGame
-
 ## Description
   - objectif : faire le jeu du pendu avec interface graphique
   - durée : 3 jours
